@@ -1,0 +1,36 @@
+/* styles for index.html page */
+
+.title-heading {
+    background-color: black;
+    color: yellow;
+    font-weight: bold;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.link-one,
+.link-two,
+.link-three {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color:black;
+    font-weight: 400;
+}
+
+.link-one {
+    background-color: rgb(255, 255, 145);
+    
+}
+
+.link-two {
+    background-color: rgb(186, 186, 253);
+    
+}
+
+.link-three{
+    background-color: rgb(255, 158, 158);
+    
+}
+
+

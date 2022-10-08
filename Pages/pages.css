@@ -1,0 +1,81 @@
+/* styles for recipe pages */
+
+/*heading styles */
+.pasta-heading,
+.meatloaf-heading,
+.friedrice-heading {
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 90px;
+    text-align: center;
+    text-decoration: wavy;
+}
+
+.pasta-heading {
+    background-color: rgb(160, 16, 115);
+    color: burlywood;
+}
+
+.meatloaf-heading {
+    background-color: rgb(186, 109, 0);
+    color: rgb(0, 0, 0);
+}
+
+.friedrice-heading {
+    background-color: aqua;
+    color: blueviolet;
+}
+
+.pasta-pic,
+.meatloaf-pic,
+.friedrice-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+
+.pasta-description,
+.ingredient-heading,
+.friedrice-description,
+.step-heading,
+.meatloaf-description {
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.pasta-description,
+.meatloaf-description,
+.friedrice-description {
+    color: rgb(198, 40, 190);
+}
+
+.ingredient-heading {
+    color:rgb(12, 209, 153);
+}
+
+.step-heading {
+    color: rgb(218, 16, 16);
+}
+
+.ul,
+ol,
+p {
+    font-size: 25px;
+}
+
+ul {
+    color: rgb(122, 0, 128);
+    font-size: 25px;
+}
+
+ol {
+    color: rgb(152, 85, 37);
+}
+
+p{
+    color: rgb(53, 171, 40);
+}
+
+
+
