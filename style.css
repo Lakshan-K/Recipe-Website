@@ -16,6 +16,11 @@
     font-size: 50px;
     color:black;
     font-weight: 400;
+    border: 20px solid darkred;
+    margin: 35px;
+    padding: inherit;
+    height: auto;
+    width: auto;
 }
 
 .link-one {
